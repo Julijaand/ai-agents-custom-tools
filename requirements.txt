@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+pydantic-ai
+pydantic-ai-slim[groq]
+python-dotenv
+requests
+beautifulsoup4
+litellm
